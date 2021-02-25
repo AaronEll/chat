@@ -57,7 +57,7 @@ drone.on('error', error => {
 });
 
 function getRandomName() {
-  const adjs = ["Paper", "Egyptians", "Conspiracy", "Microchip", "Government", "Flat", "Shakespeare", "Dark", "Restraining", "Death", "Vaccine", "Corona", "Matter", "Black", "SOS", "Shrek", "Donkey", "Kyla", "&%*#", "Crimson"];
+  const adjs = ["Paper", "Egyptian", "Conspiracy", "Microchip", "Government", "Flat", "Shakespeare", "Dark", "Restraining", "Death", "Vaccine", "Corona", "Matter", "Black", "SOS", "Shrek", "Donkey", "Kyla", "&%*#", "Crimson"];
   const nouns = ["Goblin", "BadManTouchMe", "AAAAAAAA", "HitByATrain", "Thunder", "GOD", "BloodSea", "SleepingDeath", "Paxton", "Genesis", "MustardGas", "Planes&Buildings", "Shadow", "Brain"];
   return (
     adjs[Math.floor(Math.random() * adjs.length)] +
