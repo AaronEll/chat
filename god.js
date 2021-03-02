@@ -61,7 +61,7 @@ function getRandomName() {
   const nouns = [""];
   return (
     adjs[Math.floor(Math.random() * adjs.length)] +
-    
+    "" +
     nouns[Math.floor(Math.random() * nouns.length)]
   );
 }
