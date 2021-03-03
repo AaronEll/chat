@@ -46,7 +46,7 @@ drone.on('error', error => {
   console.error(error);
 });
 function getRandomName() {
-  const adjs = ["-God"];
+  const adjs = ["-GOD"];
   const nouns = ["-"];
   return (
     adjs[Math.floor(Math.random() * adjs.length)] +
