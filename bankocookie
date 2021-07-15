@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:grey;">
+<title>Cookies for good workers</title>
+<center><p style="font-family: Courier New"><a href="index.html" target="_self">Back</a></p></center>
+<style>
+div {
+  margin: 70px;
+  border: 1px solid #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<h2>Cookie Bank</h2>
+<div>Sukita Aguirre</div>
+
+</body>
+</html>
