@@ -57,8 +57,8 @@ drone.on('error', error => {
 });
 
 function getRandomName() {
-  const adjs = ["Defederation"];
-  const nouns = ["Aaron"];
+  const adjs = ["Operator"];
+  const nouns = [":)"];
   return (
     adjs[Math.floor(Math.random() * adjs.length)] +
     "_" +
